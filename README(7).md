@@ -1,7 +1,7 @@
 
 # Linux Labs
 
-### Lab Project - 6
+### Lab Project - 8
 
 #### Objective:  Linux environment management lab 
 
