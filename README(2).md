@@ -1,8 +1,8 @@
 
 # Linux Labs
-#### Objective: Linux process management lab 
+ 
 ### Lab Project - 3
-
+#### Objective: Linux process management lab
 #### DURATION: 2 - 3 Hourse
 
 #### PRE-REQUISITES: 
