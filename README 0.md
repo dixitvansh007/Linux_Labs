@@ -1,7 +1,7 @@
 
 # Linux Labs
 
-### Project - 1 
+### Lab Project - 1 
 #### Object: Linux user management lab tasks
 #### PRE-REQUISITES: 
 Oracle VirtualBox or VMWare, Ubuntu installed.
