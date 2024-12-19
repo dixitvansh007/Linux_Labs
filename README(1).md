@@ -3,8 +3,7 @@
 
 ### Lab Project - 2
 
-#### Objective:
-Shell scripting for Automation labs
+#### Objective: Shell scripting for Automation labs
 
 #### PRE-REQUISITES: 
 Oracle VirtualBox or VMWare, Ubuntu installed.
