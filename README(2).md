@@ -183,34 +183,7 @@ Learn how to identify and debug processes that are stuck or unresponsive.
 #### Outcome: 
 This lab will help you practice troubleshooting and debugging stuck or unresponsive processes, a critical skill in system administration.
 ________________________________________
-#### Lab 8 : Containerized Processes with Docker
-
-#### Objective: 
-Manage processes within Docker containers and understand container lifecycle.
-#### Task:
-    
-    1.	Start a Docker Container:
-     
-     # Use docker run to start a container from an image (e.g., docker run -d nginx).
-    
-    2.	Monitor Processes Inside Containers:
-     
-     # Use docker exec to run commands like top or ps inside a running container to view its processes.
-    
-    3.	Stop and Restart Containers:
-     
-     # Use docker stop and docker restart to manage containerized processes.
-    
-    4.	Debugging a Stuck Container:
-    
-     # Use docker logs to view logs and diagnose issues in a container.
-    
-     # Check container resource usage using docker stats.
-
-#### Outcome: 
-You will gain practical experience managing processes inside Docker containers, an essential skill for modern application deployment.
-________________________________________
-#### Lab 9 : Process Resource Usage and Optimization
+#### Lab 8 : Process Resource Usage and Optimization
 
 #### Objective: 
 Optimize processes to improve system performance and reduce resource usage.
